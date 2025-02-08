@@ -1,0 +1,11 @@
+[
+  {
+    "doctype": "Custom Field",
+    "dt": "Customer",
+    "fieldtype": "Data",
+    "fieldname": "mobile",
+    "name": "Customer-mobile",
+    "insert_after": "customer_group",
+    "label": "Mobile"
+  }
+]
